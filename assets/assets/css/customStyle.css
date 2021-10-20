@@ -1,0 +1,151 @@
+/*
+  Template Name: Pouya Arz  
+  Author: Hamid Talebi, 09156530212, http://www.sornadesign.ir
+/*--------------------------------------------------------------
+# 
+--------------------------------------------------------------*/
+.mt-6 {
+    margin-top: 2.5rem !important;
+}
+
+.mt-7 {
+    margin-top: 3rem !important;
+}
+
+.mt-8 {
+    margin-top: 3.5rem !important;
+}
+
+.mt-9 {
+    margin-top: 4rem !important;
+}
+
+.mt-10 {
+    margin-top: 4.5rem !important;
+}
+
+.mt-6 {
+    margin-top: 2.5rem !important;
+}
+
+.mb-7 {
+    margin-bottom: 3rem !important;
+}
+
+.mb-8 {
+    margin-bottom: 3.5rem !important;
+}
+
+.mb-9 {
+    margin-bottom: 4rem !important;
+}
+
+.mb-10 {
+    margin-bottom: 4.5rem !important;
+}
+
+
+/*--------------------------------------------------------------
+# 
+--------------------------------------------------------------*/
+.ltrDirection {
+    direction: ltr;
+}
+
+.rtlDirection {
+    direction: rtl;
+}
+
+.textRight {
+    text-align: right;
+}
+
+.textLeft {
+    text-align: left;
+}
+
+.themeColor {
+    color: #D2A832;
+}
+
+.flatbtn {
+    border-radius: 0 !important;
+    width: 134px;
+    height: 37px;
+}
+
+.btn-theme {
+    color: #010101;
+    background-color: #D2A832;
+    border-color: #D2A832;
+}
+
+    .btn-theme:hover {
+        color: #010101;
+        background-color: #c29a2a;
+        border-color: #c29a2a;
+    }
+
+.btn-outline-theme {
+    color: #D2A832;
+    border-color: #D2A832;
+}
+
+    .btn-outline-theme:hover {
+        color: #010101;
+        background-color: #c29a2a;
+        border-color: #c29a2a;
+    }
+
+.action-button-area {
+    /*margin-right: 100px;*/
+    margin: 75px 80px 0 0;
+}
+
+.mobile-nav input[type=button] {
+    margin: 5px 64px;
+    text-align: center;
+}
+
+.mobile-nav .action-button-area {
+    margin-top: 30px;
+}
+
+.modal-content {
+    background-color: transparent;
+    background-clip: padding-box;
+    border: 3px solid #d2a832;
+    border-radius: 0;
+}
+/********************************************************/
+.nav-pills > li + li {
+    margin-right: 2px;
+}
+
+.nav-pills > li {
+    float: right;
+}
+
+.input-group .form-control:first-child, .input-group-addon:first-child, .input-group-btn:first-child > .btn, .input-group-btn:first-child > .btn-group > .btn, .input-group-btn:first-child > .dropdown-toggle, .input-group-btn:last-child > .btn-group:not(:last-child) > .btn, .input-group-btn:last-child > .btn:not(:last-child):not(.dropdown-toggle) {
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;
+    border-radius: 20px;
+}
+
+.input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {
+    z-index: 2;
+    margin-right: -1px;
+}
+
+    .input-group .form-control:last-child, .input-group-addon:last-child, .input-group-btn:first-child > .btn-group:not(:first-child) > .btn, .input-group-btn:first-child > .btn:not(:first-child), .input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group > .btn, .input-group-btn:last-child > .dropdown-toggle {
+        border-top-right-radius: 0 !important;
+        border-bottom-right-radius: 0 !important;
+        border-radius: 20px;
+    }
+
+.dropdown-menu {
+    text-align: inherit;
+}
+.caret {
+    margin-right: 2px;
+}
